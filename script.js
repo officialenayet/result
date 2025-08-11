@@ -267,7 +267,7 @@ function showResult(result) {
             <div class="result-title">
                 <h3> SCIENCE & INFORMATION TECHNOLOGY-FOUNDATION</h3>
                 <p>WEB BASED RESULT PUBLICATION SYSTEM</p>
-                <p>PARAMEDICAL/DMA/LMAF EXAMINATION</p>
+                <p>PARAMEDICAL/DMA/LMAF AND EQUIVALENT EXAMINATION</p>
             </div>
         </div>
         <div class="result-content-wrapper">
@@ -436,7 +436,7 @@ function printResult() {
                 <div class="print-header">
                     <h1> SCIENCE & INFORMATION TECHNOLOGY-FOUNDATION</h1>
                     <p>WEB BASED RESULT PUBLICATION SYSTEM  </p>
-                    <p>PARAMEDICAL/DMA/LMAF EXAMINATION</p>
+                    <p>PARAMEDICAL/DMA/LMAF AND EQUIVALENT EXAMINATION</p>
                 </div>
                 <div class="result-content-wrapper">
                     ${studentPhotoHTML}
@@ -746,4 +746,5 @@ function addFadeInAnimation() {
 
 // Initialize fade-in animations
 addFadeInAnimation();
+
 
