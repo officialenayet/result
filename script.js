@@ -492,7 +492,7 @@ function showResult(result) {
                         <td class="value">${result.session}</td>
                     </tr>
                     <tr>
-                        <td class="label">Institution</td>
+                        <td class="label">Institute</td>
                         <td class="value">${result.institution}</td>
                     </tr>
                     <tr>
@@ -837,7 +837,7 @@ function printResult() {
                                 <td class="value">${currentResult.session}</td>
                             </tr>
                             <tr>
-                                <td class="label">Institution</td>
+                                <td class="label">Institute</td>
                                 <td class="value">${currentResult.institution}</td>
                             </tr>
                             <tr>
@@ -931,3 +931,4 @@ style.textContent = `
     }
 `;
 document.head.appendChild(style);
+
